@@ -10,6 +10,7 @@ from grade_calculator import GradeCalculator
 my_grades = Grades()
 weights = GradeWeights()
 
+#Hello, This is a personal forket version of the ENPM grade calculator
 # Set grades achieved so far
 my_grades.quiz_1 = 0.78 # Received 78% in the first quiz
 
